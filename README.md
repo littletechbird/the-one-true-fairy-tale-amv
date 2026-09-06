@@ -3,7 +3,7 @@
 A public how-to for making a keepable romantic anime music video from an original poem: **poem → Suno → Grok Imagine → assembly → ship**. Built from a finished cut so a stranger (human or bot) can follow the same path without insider vocabulary.
 
 **Repo:** https://github.com/littletechbird/the-one-true-fairy-tale-amv  
-**Channel:** [@littletechbird](https://www.youtube.com/channel/UCfpdyNssccWVX326jysCXag) (upload pending if not live yet)
+**Watch:** [The One True Fairy Tale](https://www.youtube.com/watch?v=1j_YNYvg-WU) · channel [@littletechbird](https://www.youtube.com/@littletechbird)
 
 ---
 
@@ -15,15 +15,15 @@ A public how-to for making a keepable romantic anime music video from an origina
 
 ## Watch / download the finished video
 
-Video files are **not** in this repo (too large). Use Google Drive:
+**Watch on YouTube:** [The One True Fairy Tale](https://www.youtube.com/watch?v=1j_YNYvg-WU) · [@littletechbird](https://www.youtube.com/@littletechbird)
+
+Video files are **not** in this repo (too large). Google Drive copies remain available as downloads / archive:
 
 | Cut | Link |
 |-----|------|
 | **Master** (keepable archive encode) | https://drive.google.com/file/d/1iaC_X03pJPkmmQxWzHiGKPaEzmAkl_Ih/view |
 | **YouTube twin** | https://drive.google.com/file/d/1a4BNmec50DkLb16iuhoOKchR82-QPLJx/view |
 | **Earlier review encode** (motion-light pass) | https://drive.google.com/file/d/1WL6NDvAmUqdDUC0OEfJ6IKz6X_2p2Gld/view |
-
-**YouTube:** target channel https://www.youtube.com/channel/UCfpdyNssccWVX326jysCXag (`@littletechbird`). Public upload may still be pending — this README does not invent a watch URL that does not exist yet. Use Drive until the channel video is live.
 
 ---
 
