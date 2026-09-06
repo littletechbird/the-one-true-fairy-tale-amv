@@ -54,7 +54,7 @@ Import these as **two bots**, not one mashup:
 
 | Bot | Job | Public template |
 |-----|-----|-----------------|
-| **Hatch** | Designs high-quality Grok Bots; ships the chip-away / motion-QA skill pack | *(publish URL pending)* |
+| **Hatch** | Designs high-quality Grok Bots; ships the chip-away / motion-QA skill pack | https://x.ai/bot/o8hID4-jKPlA8QQQH5K69 |
 | **AMV Desk** | Runs the hybrid AMV pipeline (Paper Day → song lock → stills → I2V → chip-away → Drive link) | https://x.ai/bot/CDEMagEwXls_3Aw3iTHCk |
 
 Live production profiles stay private. Public templates are scrubbed of secrets, vault paths, and project war-room GOs.
