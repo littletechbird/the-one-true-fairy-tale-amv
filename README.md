@@ -48,6 +48,17 @@ Early in the pipeline we used **CineForge** as a local free production desk — 
 
 **Honest note:** generation for this AMV was primarily **Suno** (song) + **Grok Imagine** (stills + image-to-video). Finishing and assembly were largely **ffmpeg**. CineForge was the desk and organization layer — not the final “camera.”
 
+### Grok Bot templates (separate)
+
+Import these as **two bots**, not one mashup:
+
+| Bot | Job | Public template |
+|-----|-----|-----------------|
+| **Hatch** | Designs high-quality Grok Bots; ships the chip-away / motion-QA skill pack | *(publish URL pending)* |
+| **AMV Desk** | Runs the hybrid AMV pipeline (Paper Day → song lock → stills → I2V → chip-away → Drive link) | *(publish URL pending)* |
+
+Live production profiles stay private. Public templates are scrubbed of secrets, vault paths, and project war-room GOs.
+
 ### Skill concepts (chip-away / motion QA)
 
 Reusable ideas from this production (optional; lives in Grok Bot workflows as `amv-motion-qa-chip-away`):
