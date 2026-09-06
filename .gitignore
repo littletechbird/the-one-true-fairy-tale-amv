@@ -1,0 +1,39 @@
+# Large media — link Drive/YouTube instead of committing
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.wav
+*.flac
+*.aiff
+*.aif
+*.m4a
+*.mp3
+*.aac
+*.ogg
+
+# Other large / binary junk
+*.zip
+*.7z
+*.rar
+*.iso
+*.dmg
+*.psd
+*.ae
+*.prproj
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Secrets / local env
+.env
+.env.*
+*.pem
+credentials.json
+token.json

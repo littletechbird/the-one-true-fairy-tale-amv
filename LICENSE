@@ -1,0 +1,16 @@
+# Licensing
+
+This repository uses two licenses:
+
+| Content | License | File |
+|---------|---------|------|
+| Guide text, docs, README, poem/lyrics paste, documentation | **CC BY 4.0** | `LICENSE-CC-BY-4.0` |
+| Any scripts or tooling added later | **MIT** | `LICENSE-MIT` |
+
+Poem and song lyrics remain © Brent Spink / @littletechbird. You may quote them
+for educational / how-to purposes under the CC BY 4.0 guide license with
+attribution. Commercial reuse of the finished music video or likenesses requires
+separate permission from the creator.
+
+Anonymized stills in `assets/` are provided as pipeline examples. Do not treat
+family likenesses as free stock for other projects.
