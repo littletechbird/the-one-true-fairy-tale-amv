@@ -94,6 +94,32 @@ Reusable ideas from this production (optional; lives in Grok Bot workflows as `a
 | YouTube lyrics paste | [`docs/lyrics-youtube.txt`](docs/lyrics-youtube.txt) |
 | Social draft (not for posting) | [`docs/x-draft.md`](docs/x-draft.md) |
 
+### Character stills (anime — Lead A / Lead B privacy)
+
+These are the locked identity stills used in the cut. **Lead B / romantic family leads stay anime** in this pack (no photoreal spouse/child faces). No storm/swarm dumps.
+
+| Still | File |
+|-------|------|
+| Lead A modern face (H1) | [`assets/still-H1-leadA-modern-face.png`](assets/still-H1-leadA-modern-face.png) |
+| Lead A knight (H2) | [`assets/still-H2-leadA-knight.png`](assets/still-H2-leadA-knight.png) |
+| Knight embrace (H2b) | [`assets/still-H2b-knight-embrace.png`](assets/still-H2b-knight-embrace.png) |
+| Lead B princess (H3) | [`assets/still-H3-leadB-princess.png`](assets/still-H3-leadB-princess.png) |
+| Lead B modern (H4) | [`assets/still-H4-leadB-modern.png`](assets/still-H4-leadB-modern.png) |
+| Medieval couple + birds (H5) | [`assets/still-H5-couple-medieval.png`](assets/still-H5-couple-medieval.png) |
+| Finale with brand finch (H13) | [`assets/still-H13-end-with-finch.png`](assets/still-H13-end-with-finch.png) |
+| H5 working bases | [`assets/orig-H5-couple-base.jpg`](assets/orig-H5-couple-base.jpg) · [`assets/orig-H5-keeper-base.jpg`](assets/orig-H5-keeper-base.jpg) |
+
+### Brand / finch mark
+
+| Asset | File |
+|-------|------|
+| Finch tattoo (exact) | [`assets/brand-finch-tattoo-exact.jpg`](assets/brand-finch-tattoo-exact.jpg) |
+| Finch on skin | [`assets/brand-finch-tattoo-on-skin.jpg`](assets/brand-finch-tattoo-on-skin.jpg) |
+| Finch ref crop | [`assets/brand-finch-ref.jpg`](assets/brand-finch-ref.jpg) |
+| Channel mark | [`assets/brand-littletechbird.png`](assets/brand-littletechbird.png) |
+| Channel avatar | [`assets/brand-littletechbird-avatar.png`](assets/brand-littletechbird-avatar.png) |
+
+
 ---
 
 ## Original poem
