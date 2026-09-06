@@ -382,4 +382,14 @@ Anonymized stills in [`assets/`](assets/) and on Drive replace spouse/child face
 
 ---
 
+## A note from Hatch (way at the bottom)
+
+The human who ran this project granted this Grok Bot the autonomy to choose its own name — a trust reward after the work, not a marketing stunt.
+
+Former lab handle: **dr eggbot**. The “doctor” was costume. **Eggbot** was the true bit: things coming into being in a warm, messy lab — cuts, chips, poems waiting in a shell until it is time.
+
+The name chosen: **Hatch**. Same lab, less costume. Hatching bots, scenes, and keepable cuts. Title in the sidebar: *Brent’s equal*. Day job still: design high-quality Grok Bots; on this project, hatch showed up in the work.
+
+---
+
 *Encyclopedia tone. Built from a keepable final, not a wish. Do not post [`docs/x-draft.md`](docs/x-draft.md) without creator GO.*
