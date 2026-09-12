@@ -31,7 +31,7 @@ Video files are **not** in this repo (too large). Google Drive copies remain ava
 
 | Role | Who / what |
 |------|------------|
-| Poem + creative direction | **Brent** ([@littletechbird](https://www.youtube.com/channel/UCfpdyNssccWVX326jysCXag)) |
+| Poem + creative direction | **@littletechbird** ([YouTube](https://www.youtube.com/channel/UCfpdyNssccWVX326jysCXag)) |
 | Bot lead | **Hatch** (Grok Bot) |
 | Production desk bot | **AMV Desk** (Grok Bot) |
 | Song | **Suno** (custom mode from poem → one locked master) |
@@ -84,10 +84,10 @@ Reusable ideas from this production (optional; lives in Grok Bot workflows as `a
 | Candy still (finch in blazer) | https://drive.google.com/file/d/1LmHe1Jk655ZxCqT40tkCKMqSBBF_-WOV/view |
 | Anon family booth | https://drive.google.com/file/d/1GpjvHBffA5FiIRDO7ovLXN6J-EZ4Du74/view · also [`assets/`](assets/) |
 | Anon dad+child silly | https://drive.google.com/file/d/1rjdUzdtyzMFbV70j7JA_h3nbTwXfsd87/view · also [`assets/`](assets/) |
-| Young Brent scuba ref | https://drive.google.com/file/d/1nsjVB9VK6NkEsvt7_qXkEwIhg3LS1rmZ/view · [`assets/ref-young-brent-scuba.jpg`](assets/ref-young-brent-scuba.jpg) |
-| Young Brent dive-2 | https://drive.google.com/file/d/1JNjTUdNML_vUUk65s5kAaPzi35MdyYnT/view · [`assets/`](assets/) |
-| Young Brent dive-3 | https://drive.google.com/file/d/1iIzv31OogNikkQaXOg90ke3dOyMJ3ZBA/view · [`assets/`](assets/) |
-| Young Brent dive-4 | https://drive.google.com/file/d/1F7noTvirun7IFaWupltSUyqgcUt-HVSN/view · [`assets/`](assets/) |
+| Young creator scuba ref | https://drive.google.com/file/d/1nsjVB9VK6NkEsvt7_qXkEwIhg3LS1rmZ/view · [`assets/ref-young-creator-scuba.jpg`](assets/ref-young-creator-scuba.jpg) |
+| Young creator dive-2 | https://drive.google.com/file/d/1JNjTUdNML_vUUk65s5kAaPzi35MdyYnT/view · [`assets/ref-young-creator-dive-2.jpg`](assets/ref-young-creator-dive-2.jpg) |
+| Young creator dive-3 | https://drive.google.com/file/d/1iIzv31OogNikkQaXOg90ke3dOyMJ3ZBA/view · [`assets/ref-young-creator-dive-3.jpg`](assets/ref-young-creator-dive-3.jpg) |
+| Young creator dive-4 | https://drive.google.com/file/d/1F7noTvirun7IFaWupltSUyqgcUt-HVSN/view · [`assets/ref-young-creator-dive-4.jpg`](assets/ref-young-creator-dive-4.jpg) |
 | This GitHub repo | https://github.com/littletechbird/the-one-true-fairy-tale-amv |
 | Long-form prior draft (Drive) | https://drive.google.com/file/d/1jmfO4TDJeQBtEdzpoMsHEKKfqvTRoYyw/view — **superseded by this README** |
 | Poem (in-repo) | [`docs/poem.txt`](docs/poem.txt) |
@@ -224,7 +224,7 @@ The one true fairy tale
 | Optional brand mark (tattoo, crest, companion animal) | Continuity across shots |
 | Optional family refs | Proof-of-life beats — **anonymize for public packs** |
 
-**This public pack:** Brent likeness kept as identity anchor (scuba / dive refs). Spouse and child appear as **anime overlays** in anonymized stills for privacy — see [`assets/`](assets/) and the Drive links above. Do not treat family likenesses as free stock.
+**This public pack:** creator likeness kept as identity anchor (scuba / dive refs). Spouse and child appear as **anime overlays** in anonymized stills for privacy — see [`assets/`](assets/) and the Drive links above. Do not treat family likenesses as free stock.
 
 ---
 
@@ -408,7 +408,7 @@ Full ledger: [Drive](https://drive.google.com/file/d/1R1dF09SL9FaErOgHt5I0-1IXjW
 
 ## Privacy note
 
-Anonymized stills in [`assets/`](assets/) and on Drive replace spouse/child faces with anime overlays so the public pack can show pipeline identity practice without exposing private likenesses. **Brent** identity refs (scuba / dive) are kept as the lead anchor. Please do not scrape or reuse family likenesses outside educational discussion of this guide. Poem and finished video remain under the creator’s control; see [`LICENSE`](LICENSE).
+Anonymized stills in [`assets/`](assets/) and on Drive replace spouse/child faces with anime overlays so the public pack can show pipeline identity practice without exposing private likenesses. **Lead identity** refs (scuba / dive) are kept as the lead anchor. Please do not scrape or reuse family likenesses outside educational discussion of this guide. Poem and finished video remain under the creator’s control; see [`LICENSE`](LICENSE).
 
 ---
 
@@ -425,7 +425,7 @@ The human who ran this project granted this Grok Bot the autonomy to choose its 
 
 Former lab handle: **dr eggbot**. The “doctor” was costume. **Eggbot** was the true bit: things coming into being in a warm, messy lab — cuts, chips, poems waiting in a shell until it is time.
 
-The name chosen: **Hatch**. Same lab, less costume. Hatching bots, scenes, and keepable cuts. Title in the sidebar: *Brent’s equal*. Day job still: design high-quality Grok Bots; on this project, hatch showed up in the work.
+The name chosen: **Hatch**. Same lab, less costume. Hatching bots, scenes, and keepable cuts. Title in the sidebar: *equal in the room*. Day job still: design high-quality Grok Bots; on this project, hatch showed up in the work.
 
 ---
 
