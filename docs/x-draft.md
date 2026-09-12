@@ -38,4 +38,4 @@ deliver stub uploads.
 
 Guide: https://github.com/littletechbird/the-one-true-fairy-tale-amv
 
-@littletechbird · Hatch · AMV Desk · poem by Brent
+@littletechbird · Hatch · AMV Desk · poem by @littletechbird
